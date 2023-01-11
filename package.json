@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@status/codes": "^1.2.0",
-    "class-validator": "^0.10.0",
+    "class-validator": "^0.14.0",
     "formik": "^1.5.8",
     "mysql": "^2.14.1",
     "next": "^9.0.3",
